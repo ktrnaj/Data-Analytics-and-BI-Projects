@@ -1,0 +1,10 @@
+Stock Data Analysis Pipeline
+Repository Description
+This repository showcases an end-to-end data analysis pipeline for financial data using Python, SQL, and Power BI. The project involves:
+
+Data Extraction: Downloading stock market data from Yahoo Finance using Python.
+Exploratory Data Analysis (EDA): Cleaning, visualizing, and analyzing data in Python to uncover trends and insights.
+Database Management: Loading the cleaned data into a SQL database for structured storage and querying.
+Data Visualization: Connecting the SQL database to Power BI to create interactive charts and dashboards.
+This project highlights an integrated workflow for financial data analysis, combining Python scripting, SQL database management, and business intelligence tools.
+
